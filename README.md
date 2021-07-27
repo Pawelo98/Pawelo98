@@ -1,4 +1,4 @@
-<h2> Hello there 👋 </h2>
+<h1> 👋 Hello there 👋 </h1>
 
 I'm Paweł Janic and I'm Junior Software Engineer in Capgemini. I finished Wrocław University of Science and Technology in the field of Computer Science.
 
