@@ -4,7 +4,13 @@
 
 <h2> Github statistics: </h2>
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Pawelo98&count_private=true&show_icons=true&hide=contribs,stars)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=Pawelo98&count_private=true&show_icons=true&hide=contribs,stars&hide_rank=true)
+
+<h2> Best projects: </h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pawelo98&repo=ski-with-me-frontend)](https://github.com/Pawelo98/ski-with-me-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pawelo98&repo=zpi-backend)](https://github.com/Pawelo98/zpi-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pawelo98&repo=zpi-frontend)](https://github.com/Pawelo98/zpi-frontend)
 
 <h2> Technologies I use: </h2>
 
